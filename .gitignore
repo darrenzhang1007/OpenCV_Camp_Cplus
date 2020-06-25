@@ -3,3 +3,8 @@
 ################################################################################
 
 *.suo
+/01_Getting_started_with_images/01_Getting_started_with_images/x64/Debug
+/01_Getting_started_with_images/x64/Debug
+/02_Image_Annotation/02_Image_Annotation/x64/Debug
+/02_Image_Annotation/x64/Debug
+*.opendb
